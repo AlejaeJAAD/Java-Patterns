@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\aleja\OneDrive\Escritorio\Github\Patrones Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4015153459.index
+4288071203.index
