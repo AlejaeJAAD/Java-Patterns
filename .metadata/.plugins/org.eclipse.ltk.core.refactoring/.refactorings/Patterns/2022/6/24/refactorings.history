@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Triangle_Pattern.Inverted_Left_Triangle&apos; to &apos;Inverted_Left_Side_Triangle&apos;&#x0D;&#x0A;- Original project: &apos;Patterns&apos;&#x0D;&#x0A;- Original element: &apos;Triangle_Pattern.Inverted_Left_Triangle&apos;&#x0D;&#x0A;- Renamed element: &apos;Triangle_Pattern.Inverted_Left_Side_Triangle&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Inverted_Left_Triangle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Triangle_Pattern{Inverted_Left_Triangle.java[Inverted_Left_Triangle" matchStrategy="1" name="Inverted_Left_Side_Triangle" qualified="false" references="true" similarDeclarations="false" stamp="1654837710802" textual="false" version="1.0"/>
+</session>

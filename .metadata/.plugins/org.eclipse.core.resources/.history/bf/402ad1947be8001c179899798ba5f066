@@ -1,0 +1,10 @@
+package Triangle_Pattern;
+
+public class Inverted_Righ_Side_Triangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
