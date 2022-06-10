@@ -1,4 +1,4 @@
-package Triangle_Pattern;
+package triangle_Pattern;
 
 public class Inverted_Righ_Side_Triangle {
 

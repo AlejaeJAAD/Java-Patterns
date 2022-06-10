@@ -1,4 +1,4 @@
-package Basic_Pattern;
+package basic_Pattern;
 
 public class Binary_Square_Pattern {
 

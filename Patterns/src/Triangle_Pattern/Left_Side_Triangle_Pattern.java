@@ -1,4 +1,4 @@
-package Triangle_Pattern;
+package triangle_Pattern;
 
 public class Left_Side_Triangle_Pattern {
 

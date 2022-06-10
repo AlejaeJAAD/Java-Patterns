@@ -1,0 +1,10 @@
+package triangle_Pattern;
+
+public class Number_Pyramid_Pattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
